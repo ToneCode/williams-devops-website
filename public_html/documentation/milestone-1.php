@@ -14,7 +14,7 @@
 		<li>Age: 51</li>
 		<li>Married</li>
 		<li>Father of three children</li>
-		<li>Has a MBA in Business and Ph.D. in Electrical Engineering.</li>
+		<li>Has an MBA in Business and Ph.D. in Electrical Engineering.</li>
 		</ul>
 		<p>Matthew is focused, goal-oriented with a strong leadership role. One of his
 			concerns is maintaining quality across all groups under his management.  He
@@ -29,7 +29,7 @@
 			the internet several hours daily for work and utilizes an iPad exclusively to read books.
 			He uses social media to communicate information about the company on FaceBook and LinkedIn.</p>
 		<h2>Frustrations</h2>
-		<p>Most days, product managers spent significant time with the developers in formal meetings or
+		<p>Most days, product managers spend significant time with the developers in formal meetings or
 			ad-hoc discussions championing, designing and re-scoping features. The developers have also found
 			that the need for continuous automation methodology can help them automate the entire build process.
 			</p>
