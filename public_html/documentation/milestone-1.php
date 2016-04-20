@@ -30,7 +30,7 @@
 			He uses social media to communicate information about the company on FaceBook and LinkedIn.</p>
 		<h2>Frustrations</h2>
 		<p>Most days, product managers spent significant time with the developers in formal meetings or
-			ad-hoc discoussions championing, designing and re-scoping features. While the developers have
+			ad-hoc discussions championing, designing and re-scoping features. While the developers have
 			strong opinions on what was best for their product, as well as what was possible.  The developers
 			often expressed frustration that their feature ideas were not reflected in the requirements.</p>
 		<h2>Goals</h2>
