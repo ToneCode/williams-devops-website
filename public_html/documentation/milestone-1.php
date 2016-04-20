@@ -35,7 +35,7 @@
 			</p>
 		<h2>Goals</h2>
 		<p>To Hire someone with Continuous Integration and Continuous Deployment skills, to not only reduce
-			risks and catch bugs quickly, but also move rapidly to working software.  This allows for greater
+			risks and catch bugs quickly, but also move rapidly toward working software.  This allows for greater
 			collaboration between ops and delivery.</p>
 		<h2>Use Case:</h2>
 		<p>Matthew has done a brief look at my personal web site for more information.  He has also viewed my LinkedIn
