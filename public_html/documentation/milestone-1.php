@@ -30,9 +30,9 @@
 			He uses social media to communicate information about the company on FaceBook and LinkedIn.</p>
 		<h2>Frustrations</h2>
 		<p>Most days, product managers spent significant time with the developers in formal meetings or
-			ad-hoc discussions championing, designing and re-scoping features. While the developers have
-			strong opinions on what was best for their product, as well as what was possible.  The developers
-			often expressed frustration that their feature ideas were not reflected in the requirements.</p>
+			ad-hoc discussions championing, designing and re-scoping features. The developers have also found
+			that the need for continuous automation methodology can help them automate the entire build process.
+			</p>
 		<h2>Goals</h2>
 		<p>To Hire someone with Continuous Integration and Continuous Deployment skills, to not only reduce
 			risks and catch bugs quickly, but also move rapidly to working software.  This allows for greater
