@@ -38,7 +38,9 @@
 			risks and catch bugs quickly, but also move rapidly toward working software.  This allows for greater
 			collaboration between ops and delivery.</p>
 		<h2>Use Case:</h2>
-		<p>Matthew has done a brief look at my personal web site for more information.  He has also viewed my LinkedIn
-			profile and decided to schedule a 15 minute phone screening call, to see if I would be a good fit to join his team.</p>
+		<p>Matthew has received a cover letter and resume from myself in regards to an open position for a DevOps Specialist.
+			Based on a brief look at my resume, he has included my name on a list of potential people to search for on
+			LinkedIn.  After viewing my LinkedIn profile, he noticed my training in Puppet Labs and RedHat Open Stack,
+			he decided to go a step further and visit my web site for more information.</p>
 	</body>
 </html>
