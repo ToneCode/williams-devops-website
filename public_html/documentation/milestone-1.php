@@ -5,6 +5,17 @@
 		<title>PWP-MileStone-1</title>
 	</head>
 	<body>
+		<h1>Purpose, Audience & Goal</h1>
+		<h2>Purpose:</h2>
+		<p>This project is a professional portfolio website with a focus on front-end development.</p>
+		<h2>Audience:</h2>
+		<p>This site is designed with a professional audience in mind, and is targeted to Fortune 1000 companies
+			nationwide looking to add personnel to their web development departments.</p>
+		<h2>Goal:</h2>
+		<p>The primary goal of this site is for users to initiate contact with me in regards to employment and possible
+			collaboration opportunities, using connected social media profiles and contact information.  The secondary
+			goal is to contribute to a polished professional online presencee and to develop a personal brand in the web
+			development community.</p>
 		<header>Persona</header>
 
 		<h2>Job Title and Major Responsibilities</h2>
