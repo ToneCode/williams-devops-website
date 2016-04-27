@@ -5,7 +5,7 @@
 		<title>PWP-MileStone-1</title>
 	</head>
 	<body>
-		<h1>Purpose, Audience & Goal</h1>
+		<h2>Purpose, Audience & Goal</h2>
 		<h3>Purpose:</h3>
 		<p>This project is a professional portfolio website with a focus on front-end development.</p>
 		<h3>Audience:</h3>
