@@ -14,7 +14,7 @@
 		<h2>Goal:</h2>
 		<p>The primary goal of this site is for users to initiate contact with me in regards to employment and possible
 			collaboration opportunities, using connected social media profiles and contact information.  The secondary
-			goal is to contribute to a polished professional online presencee and to develop a personal brand in the web
+			goal is to contribute to a polished professional online presence and to develop a personal brand in the web
 			development community.</p>
 		<header>Persona</header>
 
