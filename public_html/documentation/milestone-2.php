@@ -16,7 +16,7 @@
 		<h3>Content Strategy</h3>
 		<p><strong>Home Page:</strong>A brief introduction that clearly states my name and role as a Full Stack Developer, and will feature 2 calls to action that will direct the user to the About Me page or Contact page. </p>
 		<p><strong>About Me:</strong>This page will detail my professional history, core skill set, and professional highlights. This page will showcase my strengths and personality. I will feature a contrasting side bar that list my core skills which will be easily readable at a glance. The tone of voice will be casual and personable, indicating that I am only interested in opportunities with organizations that I am a good personality fit. </p>
-		<p><strong>Contact:</strong>This page will contain a simple contact form, my professional email address, and links to my professional social media profiles: LinkedIn, Twitter and GitHub. These will also be linked in the footer site wide via icons. This page my be integrated into my About Me page if content is short. </p>
+		<p><strong>Contact:</strong>This page will contain a simple contact form, my professional email address, and links to my professional social media profiles: LinkedIn, Twitter and GitHub. These will also be linked in the footer site wide via icons. This page may be integrated into my About Me page if content is short. </p>
 		</div>
 		<h3>Interaction Flow</h3>
 		<p>David is viewing the site on his desktop computer at the office, with a 27" screen, using Safari. He has 29 other tabs open. From LinkedIn, he links to my personal website which opens in a new window. In the next 3 minutes, here is an outline of David's interactions with my site: </p>
