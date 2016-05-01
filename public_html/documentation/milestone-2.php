@@ -26,37 +26,14 @@
 		</ol>
 		<h3>WireFrames</h3>
 		<p>This site will feature 2 layouts for :</p>
-		<ol>
-			<li>Home Page Layout</li>
+		<ul>
+			<li>Home Page Layout </li>
 			<img src="images/home-page-desktop.svg" alt="Desktop WireFrame"
-			<li>Home Page Mobile Layout</li>		  
+			<li>Home Page Mobile Layout </li>		  
 			<img src="images/home-page-mobile.svg" alt="Mobile WireFrame"	  
-			<li>Content Page Layout</li>
-
-
-		</ol>
+			<li>Content Page Layout </li>
+		</ul>
 
 	</body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </html>
