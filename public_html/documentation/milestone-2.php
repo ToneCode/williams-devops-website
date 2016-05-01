@@ -28,6 +28,7 @@
 		<p>This site will feature 2 layouts for :</p>
 		<ol>
 			<li>Home Page Layout</li>
+			<img src="images/home-page-desktop.svg" alt="Desktop WireFrame"
 			<li>Content Page Layout</li>
 
 
