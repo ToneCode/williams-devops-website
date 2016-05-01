@@ -32,11 +32,10 @@
 		<h4>Home Page Mobile Layout </h4>
 		<img src="images/home-page-mobile.svg" alt="Mobile WireFrame"
 		<br>
+		<h4>Content Page Layout </h4>
+		<img src="images/content-page-desktop.svg" alt="Desktop WireFrame"
+		<br>		  
 		<h4>Content Page Mobile Layout </h4>
 		<img src="images/content-page-mobile.svg" alt="Mobile WireFrame"
-
-
-
 	</body>
-
 </html>
