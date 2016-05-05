@@ -19,7 +19,7 @@
 		<header>Persona</header>
 
 		<h3>Job Title and Major Responsibilities</h3>
-		<p>Chief Information Officer</p>
+		<p>Hiring Authority</p>
 		<ul>
 		<li>Name: Matthew Findley</li>
 		<li>Age: 51</li>
@@ -45,7 +45,7 @@
 			that the need for continuous automation methodology can help them automate the entire build process.
 			</p>
 		<h3>Goals</h3>
-		<p>To Hire someone with Continuous Integration and Continuous Deployment skills, to not only reduce
+		<p>To Hire someone with Continuous Integration and Continuous Deployment training, to not only reduce
 			risks and catch bugs quickly, but also move rapidly toward working software.  This allows for greater
 			collaboration between ops and delivery.</p>
 		<h3>Use Case:</h3>
