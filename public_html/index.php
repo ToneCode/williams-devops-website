@@ -39,10 +39,10 @@
 					<div class="navbar-collapse collapse">
 						<nav>
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="projects.html">Projects</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="projects.php">Projects</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
@@ -54,7 +54,7 @@
 		<div class="jumbotron">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-					<img src="images/devops-svg.png" alt="DevOps Illustrated" style="width:326px;" height="351px">
+					<img src="img/devops-svg.png" alt="DevOps Illustrated" style="width:326px;" height="351px">
 				</div>
 				<div class="col-lg-8 col-md-8 col-sm-10 col-xs-10">
 					<h1>Enterprise capabilities<br>Williams DevOps</h1>
