@@ -1,0 +1,92 @@
+body {
+	padding-top: 20px;
+}
+body
+{
+	background: #C0C0C0;
+}
+
+img{
+	width: 100%;
+}
+.footer {
+	background-color: #1b6d85;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+	border-top: 1px solid #eee;
+	color:white !important;
+	font-size: 1.5em;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+	text-align: center;
+	background-color: transparent;
+}
+.jumbotron .btn {
+	padding: 14px 24px;
+	font-size: 21px;
+}
+
+/* Customize the nav-justified links to be fill the entire space of the .navbar */
+
+/*NAVIGATION*/
+
+.navbar {
+
+	background-color:#242424;
+	border-bottom: 1px solid #b9b9b9;
+	font-family: 'Lato', sans-serif;
+}
+
+.navbar a {
+	color: #cccccc !important;
+}
+
+.navbar a:hover {
+	color: #ffffff !important;
+	background-color:#646464 !important;
+}
+
+.navbar-header .navbar-brand {
+	color:white !important;
+	font-size: 1.5em;
+}
+
+
+
+@media (min-width: 768px) {
+	.nav-justified {
+		max-height: 52px;
+	}	}
+
+@media(max-width:768px) {
+
+	.header {
+		padding: 140px 0 60px;
+		background-size: cover;
+		width: 100%;
+		border-bottom: 2px solid #c9c9c9;
+	}
+
+}
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
