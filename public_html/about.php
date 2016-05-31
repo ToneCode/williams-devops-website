@@ -8,13 +8,12 @@
 		<title>Williams DevOps</title>
 
 		<!-- Bootstrap core CSS -->
-		<link href="images/bootstrap.min.css" rel="stylesheet">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
 
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-		<link href="images/style.css" rel="stylesheet">
 
 		<!-- Custom styles for this template -->
-		<link href="images/style.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
 	</head>
 
 	<body class="sfooter">
@@ -34,10 +33,10 @@
 					<div class="navbar-collapse collapse">
 						<nav>
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="projects.html">Projects</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="projects.php">Projects</a></li>
+								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
 					</div>
