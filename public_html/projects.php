@@ -19,9 +19,6 @@
 				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
 				  crossorigin="anonymous"></script>
 
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-		
-
 		<!-- Custom styles for this template -->
 		<link href="css/style.css" rel="stylesheet">
 	</head>
