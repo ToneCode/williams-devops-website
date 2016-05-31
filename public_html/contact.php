@@ -45,7 +45,7 @@
 		</div>
 		<!-- END NAVBAR -->
 		<div class="col-12">
-			<img src="images/devops-contact.jpg" alt="DevOps Contact" style="width:100%;" height="450px">
+			<img src="img/devops-contact.jpg" alt="DevOps Contact" style="width:100%;" height="450px">
 		</div>
 		<div class="col-lg-12">
 			<h2>Contact</h2>
