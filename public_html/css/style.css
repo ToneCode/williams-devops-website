@@ -9,25 +9,8 @@ body
 img{
 	width: 100%;
 }
-.footer {
-	background-color: #1b6d85;
-	padding-top: 30px;
-	padding-bottom: 20px;
-	margin-top: 30px;
-	border-top: 1px solid #eee;
-	color:white !important;
-	font-size: 1.5em;
-}
 
-/* Main marketing message and sign up button */
-.jumbotron {
-	text-align: center;
-	background-color: transparent;
-}
-.jumbotron .btn {
-	padding: 14px 24px;
-	font-size: 21px;
-}
+
 
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
 
@@ -70,6 +53,15 @@ img{
 		border-bottom: 2px solid #c9c9c9;
 	}
 
+}
+.footer {
+	background-color: #1b6d85;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+	border-top: 1px solid #eee;
+	color:white !important;
+	font-size: 1.5em;
 }
 
 /***

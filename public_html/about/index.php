@@ -53,12 +53,12 @@
 		</div>
 		<!-- END NAVBAR -->
 		<!-- Example row of columns -->
-		<div class="row">
 			<div class="row">
 				<div class="col-md-12">
 					<img src="../img/kochi_picture.jpg" alt="Kochi Tuk-Tuk" style="width:100%;" height="450px">
 				</div>
 			</div>
+			<div class="container">
 			<div class="col-lg-12">
 				<h3>About me, and why I started the journey to DevOps</h3>
 				<p>During a 22 hour flight from San Francisco to Cochin, India on Emirates Airline. I knew I would need
@@ -138,15 +138,17 @@
 						times.
 					</li>
 				</ul>
-
-			<p>Companies that incorporate DevOps practices get more done, plain and simple!</p>
+				<p>Companies that incorporate DevOps practices get more done, plain and simple!</p>
 				<a href="../contact/index.php" class="btn btn-primary">Contact Me</a>
 		</div>
+		</div>
+		<div class="footer">
 		<!-- Site footer -->
-		<footer class="footer">
+		<footer>
 			<p>&copy; 2016 Williams DevOps, Inc.</p>
 		</footer>
 		<!-- /container -->
+		</div>
 	</body>
 </html>
 
