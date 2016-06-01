@@ -57,43 +57,45 @@
 		<div class="col-lg-12">
 			<h2>Contact</h2>
 			<p>Please email support@WilliamsDevOps.com</p>
-			<form class="form-horizontal" role="form" method="post" action="../index.php">
+			<form class="form-horizontal well" action="index.php">
 				<div class="form-group">
-					<label for="name" class="col-sm-2 control-label">Name</label>
-					<div class="col-sm-10">
-						<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name"
-								 value="">
+					<label for="name">Name</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-user" aria-hidden="true"></i>
+						</div>
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="email" class="col-sm-2 control-label">Email</label>
-					<div class="col-sm-10">
-						<input type="email" class="form-control" id="email" name="email"
-								 placeholder="example@domain.com" value="">
+					<label for="email">Email address</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</div>
+						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
 					</div>
 				</div>
 				<div class="form-group">
-					<label class="col-sm-2 control-label">Message</label>
-					<div class="col-sm-10">
-						<textarea class="form-control" rows="4" name="message"></textarea>
+					<label for="subject">Subject</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-pencil" aria-hidden="true"></i>
+						</div>
+						<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
-					<div class="col-sm-10">
-						<input type="text" class="form-control" id="human" name="human" placeholder="Your Answer">
+					<label for="message">Message</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-comment" aria-hidden="true"></i>
+						</div>
+						<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
 					</div>
 				</div>
-				<div class="form-group">
-					<div class="col-sm-10 col-sm-offset-2">
-						<input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
-					</div>
-				</div>
-				<div class="form-group">
-					<div class="col-sm-10 col-sm-offset-2">
-						<!-- Will be used to alert a user -->
-					</div>
-				</div>
+				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
 		</div>
 		</div>
