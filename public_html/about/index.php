@@ -137,28 +137,10 @@
 						than their lower-performing peers. They also deploy 30X more frequently with 200X shorter lead
 						times.
 					</li>
-					<li>Lean management and continuous delivery practices create the conditions for delivering value
-						faster, sustainably.
-					</li>
-					<li>High performance is achievable no matter if your apps are greenfield, brownfield or legacy.</li>
-					<li>DevOps initiatives launched solely by C-level executives or from the grassroots are less likely to
-						succeed.
-					</li>
-					<li>IT managers play a critical role in promoting diversity and limiting burnout.</li>
 				</ul>
-			</div>
-			<p>Companies that incorporate DevOps practices get more done, plain and simple. They deploy code up to 30
-				times more frequently than their competition. And less than 50% of their deployments fail according to
-				Puppet Labs 2015 State of DevOps survey.
-				The biggest shift in attitude within a DevOps environment is that there is one team composed of
-				cross-functional team members including developers, QA, DBAs, business analysts, operations engineers and
-				so forth. Collaboration across these different roles can now deliver many benefits.</p>
-			<p>Communication advocated by DevOps means that everyone involved work together to clearly define the code's
-				purpose and requirements. DevOps also reduces the number of hand-offs, which cause delays and wasted
-				effort. Your confidence in the
-				software's functionality and stability increases as the code moves through the pipeline. By the time you
-				reach the final production stage, you know you can safely release your latest feature, improvement or bug
-				fix to the world.</p>
+
+			<p>Companies that incorporate DevOps practices get more done, plain and simple!</p>
+				<a href="../contact/index.php" class="btn btn-primary">Contact Me</a>
 		</div>
 		<!-- Site footer -->
 		<footer class="footer">
