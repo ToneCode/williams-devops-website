@@ -28,7 +28,7 @@ try {
 	 * notice this an array that can include or omit the the recipient's real name
 	 * use the recipients' real name where possible; this reduces the probability of the Email being marked as spam
 	 **/
-	$recipients = ["info@WilliamsDevOps.com" => "Williams DevOps"];
+	$recipients = ["support@WilliamsDevOps.com" => "Williams DevOps"];
 	$swiftMessage->setTo($recipients);
 
 	// attach the subject line to the message
