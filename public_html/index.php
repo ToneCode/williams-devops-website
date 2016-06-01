@@ -50,7 +50,7 @@
 		</div>
 		<!-- END NAVBAR -->
 		<!-- Jumbotron -->
-		<div class="jumbotron">
+		<div class="jumbotron text-center">
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 					<img src="img/devops-svg.png" alt="DevOps Illustrated" style="width:326px;" height="351px">
