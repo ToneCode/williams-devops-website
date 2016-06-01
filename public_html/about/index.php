@@ -55,7 +55,7 @@
 		<!-- Example row of columns -->
 			<div class="row">
 				<div class="col-md-12">
-					<img src="../img/kochi_picture.jpg" alt="Kochi Tuk-Tuk" style="width:100%;" height="450px">
+					<img src="../img/kochi_picture.jpg" alt="About Image" class="full-width-img" height="450px">
 				</div>
 			</div>
 			<div class="container">

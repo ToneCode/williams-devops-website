@@ -54,7 +54,7 @@
 		<!-- Example row of columns -->
 		<div class="row">
 			<div class="col-12">
-				<img src="../img/projects2.jpg" alt="Projects Image" style="width:100%;" height="500px">
+				<img src="../img/projects2.jpg" alt="Projects Image" class="full-width-img" height="500px">
 			</div>
 			<div class="container">
 			<div class="col-lg-12">

@@ -4,7 +4,7 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(__DIR__) . "/vendor/autoload.php");
+require_once(dirname(__DIR__) . "../../vendor/autoload.php");
 $swiftMessage = Swift_Message::newInstance();
 try {
 	// sanitize the inputs from the form: name, email, subject, and message
@@ -113,7 +113,7 @@ try {
 		</div>
 		<!-- END NAVBAR -->
 		<div class="col-12">
-			<img src="../img/devops-contact.jpg" alt="DevOps Contact" style="width:100%;" height="450px">
+			<img src="../img/devops-contact.jpg" alt="Contact Image" class="full-width-img" height="450px">
 		</div>
 		<div class="container">
 		<div class="col-lg-12">
