@@ -54,6 +54,7 @@
 		<div class="col-12">
 			<img src="../img/devops-contact.jpg" alt="DevOps Contact" style="width:100%;" height="450px">
 		</div>
+		<div class="container">
 		<div class="col-lg-12">
 			<h2>Contact</h2>
 			<p>Please email support@WilliamsDevOps.com</p>
@@ -97,6 +98,7 @@
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
+		</div>
 		</div>
 		</div>
 

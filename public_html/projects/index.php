@@ -56,6 +56,7 @@
 			<div class="col-12">
 				<img src="../img/projects2.jpg" alt="Projects Image" style="width:100%;" height="500px">
 			</div>
+			<div class="container">
 			<div class="col-lg-12">
 				<h2>Projects</h2>
 				<p><em>Increased effectiveness:</em>
@@ -69,6 +70,7 @@
 				</p>
 				<a href="../contact/index.php" class="btn btn-primary">Contact Me</a>
 			</div>
+		</div>
 		</div>
 		<!-- Site footer -->
 		<footer class="footer">
