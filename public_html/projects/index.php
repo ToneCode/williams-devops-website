@@ -67,7 +67,7 @@
 					Automated deployments and standardized production environments, key aspects of DevOps, make
 					deployments predictable and free people from routine repetitive tasks to go do more creative things.
 				</p>
-				<a href="../contact/index.php" class="btn btn-primary">Contact Us</a>
+				<a href="../contact/index.php" class="btn btn-primary">Contact Me</a>
 			</div>
 		</div>
 		<!-- Site footer -->
