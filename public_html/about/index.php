@@ -2,7 +2,7 @@
 /*grab current directory*/
 $CURRENT_DIR = __DIR__;
 /*set page title here*/
-$PAGE_TITLE = "MY PAGE TITLE";
+$PAGE_TITLE = "Williams DevOps";
 ?>
 <?php require_once(dirname(__DIR__) . "/php/partials/head-utils.php"); ?>
 
