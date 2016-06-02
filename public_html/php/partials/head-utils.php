@@ -57,7 +57,7 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">WmsDevOps</a>
+						<a class="navbar-brand" href="<?php echo $PREFIX; ?>index.php">WmsDevOps</a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<nav>
