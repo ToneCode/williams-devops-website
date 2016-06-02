@@ -12,3 +12,12 @@ I see that your documentation borrows **heavily** from my example Milestone docu
 Going back to your Milestone 1, it appears as if you intend to market yourself as a Senior Developer/Dev Ops specialist that will be direct hired by a CTO or another C-Level exec. This is a **very** specific purpose, audience, and goal that must be reflected in this design phase of your PWP. Be sure that your Milestone 1 and 2 are coherent, and ultimately suit your goals as project owner.
 
 Your Milestone 1 and 2&alpha; pass at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP.
+
+## Milestone 2&beta; Feedback
+Your site is looking good, there are just a couple things you need to clean up! (Detailed below)
+
+Your Milestone 2&beta; passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+### Edits &amp; Suggestions
+- You need to template out your `<head>` tag into a `head-utils.php` file, that way you can just `require_once()` that file at the top of each of your pages, and avoid copy and pasting a ton of code. Talk to Rochelle or Skyler about whatever else you may need to template (such as your footer).
+- Deintegrate mail form from Swiftmailer code (put them in separate files), talk to Rochelle about this and about adding the reCAPTCHA.
