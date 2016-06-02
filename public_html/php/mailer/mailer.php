@@ -60,7 +60,7 @@ try {
 	$mailer = Swift_Mailer::newInstance($smtp);
 	$numSent = $mailer->send($swiftMessage, $failedRecipients);
 	/**
-	 * the send mail method returns the number of recipients that accepted the Email
+	 * the send method returns the number of recipients that accepted the Email
 	 * so, if the number attempted is not the number accepted, this is an Exception
 	 **/
 	if($numSent !== count($recipients)) {
