@@ -11,7 +11,7 @@ $secret = '6LfvpyETAAAAAIQBT8bPjkDEi05u08rYgU0866Tw';
 
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
-$resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["bootcamp-coders.cnm.edu"]);
+$resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["URL: https://www.google.com/recaptcha/api/siteverify"]);
 
 try {
 
