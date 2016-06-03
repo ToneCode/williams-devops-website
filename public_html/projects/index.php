@@ -27,6 +27,6 @@ $PAGE_TITLE = "Williams DevOps";
 	</div>
 </div>
 </div>
-<?php require_once(dirname(__DIR__) . "/php/partials/footer.php");?>
+<?php require_once(dirname(__DIR__) . "/php/partials/footer.php"); ?>
 </body>
 </html>
