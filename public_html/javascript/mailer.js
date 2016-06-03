@@ -40,7 +40,7 @@ $(document).ready(function() {
 			}
 		},
 
-		submitHandler: function(form) {
+		 submitHandler: function(form) {
 			$("#contact-form").ajaxSubmit({
 				type: "POST",
 				url: $("#contact-form").attr("action"),
