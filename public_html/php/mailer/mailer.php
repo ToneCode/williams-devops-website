@@ -4,7 +4,7 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(dirname(dirname(__DIR__))) . "/vendor/autoload.php");
+require_once(dirname(dirname(__DIR__)) . "/php/mailer/mailer.php");
 // your reCAPTCHA keys here
 $siteKey = '6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG';
 $secret = '6LfvpyETAAAAAIQBT8bPjkDEi05u08rYgU0866Tw';
@@ -36,7 +36,7 @@ try {
 	 * notice this an array that can include or omit the the recipient's real name
 	 * use the recipients' real name where possible; this reduces the probability of the Email being marked as spam
 	 **/
-	$recipients = ["@WilliamsDevOps.com" => "Williams DevOps"];
+	$recipients = ["info@WilliamsDevOps.com" => "Williams DevOps"];
 	$swiftMessage->setTo($recipients);
 	// attach the subject line to the message
 	$swiftMessage->setSubject($subject);
