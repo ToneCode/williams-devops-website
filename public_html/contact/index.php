@@ -14,7 +14,7 @@ $PAGE_TITLE = "Williams DevOps";
 	<div class="col-lg-12">
 		<h2>Contact</h2>
 		<p>Please email support@WilliamsDevOps.com</p>
-		<form id="contact-form" class="form-horizontal well" action="<?php echo $PREFIX; ?>../php/mailer/mailer.php">
+		<form id="contact-form" class="form-horizontal well" action="<?php echo $PREFIX; ?>php/mailer/mailer.php">
 			<div class="form-group">
 				<label for="name">Name</label>
 				<div class="input-group">

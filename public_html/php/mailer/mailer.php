@@ -4,14 +4,14 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(dirname(__DIR__)) . "/php/mailer/mailer.php");
+require_once(dirname(__DIR__, 3) . "/vendor/autoload.php");
 // your reCAPTCHA keys here
 $siteKey = '6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG';
 $secret = '6LfvpyETAAAAAIQBT8bPjkDEi05u08rYgU0866Tw';
 
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
-$resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["URL: https://www.google.com/recaptcha/api/siteverify"]);
+$resp = $recaptcha->verify($_POST["g-recaptcha-response"], $_SERVER["REMOTE_ADDR"]);
 
 try {
 
