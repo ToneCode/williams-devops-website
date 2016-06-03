@@ -6,8 +6,8 @@
  **/
 require_once(dirname(__DIR__) . "../../vendor/autoload.php");
 // your reCAPTCHA keys here
-$siteKey = 'YOUR RECAPTCHA SITE KEY HERE';
-$secret = 'YOUR RECAPTCHA SECRET KEY HERE';
+$siteKey = '6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG';
+$secret = '6LfvpyETAAAAAIQBT8bPjkDEi05u08rYgU0866Tw';
 
 // verify user's reCAPTCHA input
 $recaptcha = new \ReCaptcha\ReCaptcha($secret);
