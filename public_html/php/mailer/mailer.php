@@ -4,7 +4,7 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(dirname(__DIR__)) . "/vendor/autoload.php");
+require_once(dirname(dirname(dirname(__DIR__))) . "/vendor/autoload.php");
 // your reCAPTCHA keys here
 $siteKey = '6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG';
 $secret = '6LfvpyETAAAAAIQBT8bPjkDEi05u08rYgU0866Tw';
