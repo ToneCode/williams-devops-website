@@ -52,7 +52,7 @@ $PAGE_TITLE = "Williams DevOps";
 				</div>
 			</div>
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha" data-sitekey="6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG"></div>
+			<div class="g-recaptcha" data-sitekey="==6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG=="></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
