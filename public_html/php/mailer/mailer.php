@@ -17,6 +17,8 @@ try {
 
 	// if reCAPTCHA error, output the error code to the user
 	if(!$resp->isSuccess()) {
+		echo "Hi " . $_POST["name"] . " (" . $_POST["email"] . "), thanks for submitting the form!";
+	} else {
 		throw(new Exception("reCAPTCHA error!"));
 	}
 	$swiftMessage = Swift_Message::newInstance();
