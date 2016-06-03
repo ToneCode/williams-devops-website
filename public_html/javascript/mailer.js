@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function(){
 
 	/* begin validation*/
 	$("#contact-form").validate({
@@ -40,7 +40,7 @@ $(document).ready(function() {
 			}
 		},
 
-		 submitHandler: function(form) {
+		submitHandler: function(form) {
 			$("#contact-form").ajaxSubmit({
 				type: "POST",
 				url: $("#contact-form").attr("action"),
@@ -59,8 +59,7 @@ $(document).ready(function() {
 				}
 			})
 		}
-		/* end validate function */
-	});
 
-	/*end document.ready()*/
-});
+	});/* end validate function */
+
+});/*end document.ready()*/
