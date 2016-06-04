@@ -85,7 +85,7 @@ $PAGE_TITLE = "Williams DevOps";
 				Someone Who Cares - I'm someone who likes to mentor others, and train new staff members.
 			</li>
 		</ul>
-		<h3>Finding from the 2015 State of DevOps Report:</h3>
+		<h3>Findings from the 2015 State of DevOps Report:</h3>
 		<ul>
 			<li>
 				High-performing IT organizations experience 60X fewer failures and recover from failure 168X faster
