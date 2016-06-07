@@ -14,7 +14,7 @@ $PAGE_TITLE = "Williams DevOps";
 	<div class="col-lg-12">
 		<h2>Contact</h2>
 		<p>Please email info@WilliamsDevOps.com</p>
-		<form id="contact-form" class="form-horizontal well" action="<?php echo $PREFIX; ?>php/mailer/mailer.php">
+		<form id="contact-form" class="form-horizontal well" method="post" action="<?php echo $PREFIX; ?>php/mailer.php">
 			<div class="form-group">
 				<label for="name">Name</label>
 				<div class="input-group">
@@ -52,7 +52,7 @@ $PAGE_TITLE = "Williams DevOps";
 				</div>
 			</div>
 			<!-- reCAPTCHA -->
-			<div class="g-recaptcha" data-sitekey="6LfvpyETAAAAAJv0Moi251Jy19iy3KNL5KxxyMaG"></div>
+			<div class="g-recaptcha" data-sitekey="6LejCSITAAAAADsrcGh8ungeOjQzI9jo-DkSG-kD"></div>
 
 			<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 			<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
