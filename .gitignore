@@ -2,4 +2,4 @@
 .DS_Store
 /vendor
 
-public_html/php/mail-config.php
+**/public_html/php/mail-config.php
