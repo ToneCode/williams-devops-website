@@ -28,7 +28,7 @@ $PAGE_TITLE = "Williams DevOps";
 			professional enrichment, so I located a company teaching the official RedHat linux training course,
 			booked my flight and off I went. My
 			feeling
-			is by taking RedHat linux training it would enhance my career transition from health-care into the
+			was by taking RedHat linux training it would enhance my career transition from health-care into the
 			world of
 			technology. My background includes working in Telecommunications with Verizon, primarily in the
 			DataCenter doing
