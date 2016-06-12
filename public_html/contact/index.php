@@ -8,7 +8,7 @@ $PAGE_TITLE = "Williams DevOps";
 
 
 <div class="col-12">
-	<img src="../img/devops-contact.jpg" alt="Contact Image" class="full-width-img" height="450px">
+	<img src="../img/dream-view.jpg" alt="Contact Image" class="full-width-img" height="450px">
 </div>
 <div class="container">
 	<div class="col-lg-12">
