@@ -16,10 +16,9 @@ $PAGE_TITLE = "Williams DevOps";
 			</div>
 			<div class="col-lg-8 col-md-8 col-sm-10 col-xs-10">
 				<h1>Enterprise capabilities<br>Williams DevOps</h1>
-				<p class="lead">"When your Ops folks start thinking about development and your Dev folks starting
-					thinking about Operations, you have a single team that works together with continuous development,
-					continuous testing and continuous deployments".<a href="http://www.newrelic.com"
-																					  target="_blank">Newrelic</a>
+				<p class="lead">"ACCELERATE YOUR DEVOPS TRANSFORMATION WITH HELP FROM RACKSPACE DEVOPS PROFESSIONAL SERVICES
+					Getting started with DevOps isn't easy. It requires specialized skills and changes in organizational discipline and culture.".<a href="http://www.rackspace.com"
+																					  target="_blank">RackSpace</a>
 				</p>
 			</div>
 		</div>
